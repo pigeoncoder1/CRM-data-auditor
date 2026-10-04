@@ -27,8 +27,9 @@ def test_audit_finds_issues():
     assert data["record_count"] == 70
     assert data["overall_score"] < 95, "suspiciously clean: check the validation logic"
     assert data["records_with_issues"] > data["record_count"] / 2
-    assert counts["unparseable_date"] == 0, "all 4 known date formats should parse"
-    assert all(r["date_added_normalized"] for r in data["records"])
+    assert counts["unparseable_date"] == 6, "v2 has 6 junk/impossible dates"
+    assert all(r["date_added_normalized"] for r in data["records"]
+               if "unparseable_date" not in r["issues"])
 
 
 if __name__ == "__main__":

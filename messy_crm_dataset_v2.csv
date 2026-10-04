@@ -1,0 +1,71 @@
+contact_id,full_name,email,phone,company,job_title,date_added,industry
+1,James Smith,james.smith@acmeinc.com,(0618) 495-9310,Acme Inc,Supply Chain Analyst,22 Apr 2024,Manufacturing
+2,Sarah Johnson,sarah.johnson@brightwavesolutions.com,0755341928,Brightwave Solutions,Operations Director,04/24/2023,Retail
+3,Michael Williams,michael.williams@northgatelogistics.com,(0350) 305-6413,Northgate Logistics,Procurement Manager,19-12-2024,Healthcare
+4,Emma Brown,emma.brown@cedarandpineconsulting.com,+44 738 849 696,Cedar & Pine Consulting,Customer Success Manager,12-04-2023,Logistics
+5,David Jones,david.jones@vertexmanufacturing.com,,Vertex Manufacturing,,18-01-2025,
+6,Olivia Miller,olivia.miller@harborlinefoods.com,0704828148,Harborline Foods,Finance Lead,20 Apr 2023,Finance
+7,Daniel Davis,daniel.davis@quillandinkmedia.com,(0095) 701-5430,Quill & Ink Media,Finance Lead,10/08/2023,Insurance
+8,Sophie Wilson,sophie.wilson@stonebridgecapital.com,0778248963,Stonebridge Capital,Head of Sales,18-12-2025,Legal
+9,Robert Taylor,robert.taylor@meridianhealthgroup.com,+44 713 315 098,Meridian Health Group,Customer Success Manager,8 Oct 2023,Real Estate
+10,Grace Anderson,,0718347382,Pinnacle Retail Co,Operations Director,TBD,
+11,William Thomas,william.thomas@lumenanalytics.com,(0165) 667-0106,Lumen Analytics,Supply Chain Analyst,06/24/2023,Marketing
+12,Ava Moore,,+44 731 781 080,Copperfield Insurance,Customer Success Manager,04/03/2023,Construction
+13,Thomas Martin,,(0260) 647-4687,Ashford Legal Partners,Business Development Lead,5-04-2024,Telecom
+14,Isabella Jackson,mike williams@gmail.com,+44 797 882 081,Blue Anchor Shipping,IT Manager,2023-03-28,Food & Beverage
+15,Joseph Thompson,joseph.thompson@willowmereestates.com,,Willowmere Estates,Operations Director,2024-06-17,
+16,Mia White,mia.white@granitepeakenergy.com,+44 751 079 911,Granite Peak Energy,HR Director,18 Apr 2025,Security
+17,Charles Harris,charles.harris@foxglovemarketing.com,(0542) 784-9808,Foxglove Marketing,COO,11/10/2023,Automotive
+18,Charlotte Clark,charlotte.clark@ironwoodconstructors.com,+44 793 534 874,Ironwood Constructors,,28 Jan 2023,
+19,Henry Lewis,henry.lewis@silverlinetelecom.com,0000000000,Silverline Telecom,,18 Jan 2024,Manufacturing
+20,Amelia Walker,amelia.walker@mapleandcobakery.com,,Maple & Co Bakery,Operations Director,03/08/2023,
+21,George Hall,george.hall@redstoneventures.com,(0634) 216-0733,Redstone Ventures,Finance Lead,2024-08-27,Healthcare
+22,Lily Allen,lily.allen@nightingalecareservices.com,(0414) 586-8501,Nightingale Care Services,Finance Lead,03/09/2025,Logistics
+23,Edward Young,edward.young@thornfieldtextiles.com,(0569) 816-9340,Thornfield Textiles,,2023-07-23,Media
+24,Chloe King,@brightwave.com,,Birchwood Realty,HR Director,05/23/2025,
+25,Arthur Wright,arthur.wright@compassrosetravel.com,+44 794 680 443,Compass Rose Travel,Procurement Manager,10/14/2025,Insurance
+26,Freya Scott,freya.scott@hartleyandsons.com,555-CALL-NOW,Hartley & Sons,IT Manager,26-04-2023,Legal
+27,Jack Green,sarah.johnson.acme.com,0769367632,Driftwood Brewing Co,Finance Lead,2023-12-21,Real Estate
+28,Ruby Baker,ruby.baker@sableoakfurniture.com,0783172788,Sable Oak Furniture,Customer Success Manager,20-06-2024,Energy
+29,Oliver Adams,oliver.adams@emberlydesignstudio.com,,Emberly Design Studio,Supply Chain Analyst,3-12-2024,Marketing
+30,Poppy Nelson,poppy.nelson@crestviewsoftware.com,+44 762 316 658,Crestview Software,Customer Success Manager,15 Jul 2023,Construction
+31,Harry Hill,harry.hill@anchorpointfreight.com,+44 767 054 668,Anchor Point Freight,IT Manager,24-12-2025,Telecom
+32,Ella Ramirez,,,Wrenfield Publishing,COO,10/19/2025,Food & Beverage
+33,Leo Campbell,,0765375564,Clearwater Utilities,Finance Lead,2024-07-25,
+34,Jessica Mitchell,jessica.mitchell@oakhavenschoolstrust.com,0710033092,Oakhaven Schools Trust,,2024-13-05,Security
+35,Alexander Roberts,alexander.roberts@falconridgesecurity.com,0712419049,Falcon Ridge Security,HR Director,07/22/2024,Automotive
+36,Hannah Carter,hannah.carter@milestoneautogroup.com,+44 719 058 651,Milestone Auto Group,Marketing Manager,2024-11-17,Publishing
+37,Benjamin Phillips,benjamin.phillips@periwinkletoys.com,0762849877,Periwinkle Toys,VP of Sales,2025,
+38,Rebecca Evans,test@test,(0737) 996-5075,Brightstone Dental,Office Manager,6 Aug 2023,Retail
+39,Samuel Turner,samuel.turner@larkspurevents.com,(0480) 831-3678,Larkspur Events,Procurement Manager,25 Apr 2025,Healthcare
+40,Lucy Torres,lucy.torres@greymontsteel.com,call office,Greymont Steel,VP of Sales,24-09-2024,
+41,Matthew Parker,matthew.parker@acmeinc.com,(0351) 823-3749,Acme Inc,VP of Sales,25-09-2025,Media
+42,Katie Collins,katie.collins@brightwavesolutions.com,(0408) 240-0842,Brightwave Solutions,Head of Sales,00/00/0000,Finance
+43,Andrew Edwards,andrew.edwards@northgatelogistics.com,0771167190,Northgate Logistics,Customer Success Manager,5 Mar 2025,Insurance
+44,Laura Stewart,laura.stewart@cedarandpineconsulting.com,(0999) 386-7749,Cedar & Pine Consulting,COO,2025-05-14,
+45,Peter Morris,peter.morris@vertexmanufacturing.com,,Vertex Manufacturing,CEO,2024-07-01,Real Estate
+46,Emily Murphy,emily.murphy@harborlinefoods.com,,Harborline Foods,Marketing Manager,21-03-2024,
+47,Christopher Cook,christopher.cook@quillandinkmedia.com,+44 771 746 488,Quill & Ink Media,,2023-08-16,Marketing
+48,Megan Rogers,megan.rogers@stonebridgecapital.com,,Stonebridge Capital,Finance Lead,31-02-2024,Construction
+49,Nathan Reed,nathan.reed@meridianhealthgroup.com,(0717) 565-5125,Meridian Health Group,VP of Sales,14 Dec 2024,Telecom
+50,Zoe Bell,zoe.bell@pinnacleretailco.com,(0545) 168-0876,Pinnacle Retail Co,CEO,2-04-2025,Food & Beverage
+51,Adam Cooper,adam.cooper@lumenanalytics.com,(0824) 771-0932,Lumen Analytics,Operations Director,10-09-2023,Education
+52,Natalie Richardson,natalie.richardson@copperfieldinsurance.com,12345,Copperfield Insurance,,8-08-2025,Security
+53,Simon Cox,n/a,+44 746 584 044,Ashford Legal Partners,COO,27-10-2025,Automotive
+54,Victoria Ward,victoria.ward@blueanchorshipping.com,(0867) 533-9636,Blue Anchor Shipping,Operations Director,last Tuesday,Publishing
+55,Ryan Peterson,ryan.peterson@willowmereestates.com,N/A,Willowmere Estates,CEO,17-08-2023,Manufacturing
+56,"Cook, Christopher",jane..doe@company.com,(0134) 316-1172,Quill & Ink Media.,Head of Sales,23-05-2023,
+57,Grace Anderson,grace.anderson@pinnacleretailco.com,(0238) 692-2219,Pinnacle Retail Co,,2025-07-28,
+58,Jack Green,jack.green@driftwoodbrewingco.com,,Driftwood Brewing Co,,05/19/2025,Real Estate
+59,Katie Collins,katie.collins@brightwavesolutions.com,,Brightwave Solutions,,27 Nov 2024,
+60,Victoria Ward,victoria.ward@gmail.com,0795339421,Blue Anchor Shipping,Operations Director,2023-11-21,Publishing
+61,David Jones,david.jones@gmail.com,,Vertex Manufacturing,Marketing Manager,2023-05-17,Media
+62,Harry Hill,harry.hill@gmail.com,,Anchor Point Freight,IT Manager,1 May 2025,
+63,Charlie Harris,charles.harris@foxglovemarketing.com,,Foxglove Marketing,COO,20 Apr 2025,Automotive
+64,Lily Allen,lily.allen@nightingalecareservices.com,,Nightingale Care Services,Finance Lead,15 Jun 2025,
+65,"Torres, Lucy",john.smith@,+44 740 537 735,Greymont Steel.,VP of Sales,4-11-2024,Logistics
+66,"Morris, Peter",PETER.MORRIS@VERTEXMANUFACTURING.COM,+44 7,Vertex Manufacturing,,7-02-2025,Real Estate
+67,Freya Sctot,freya.scott@hartleyandsons.com,+44 742 284 210,Hartley & Sons,IT Manager,01/05/2024,
+68,Natalie Rihcardson,natalie.richardson@copperfieldinsurance.com,(0681) 177-5891,Copperfield Insurance,,2023-09-15,
+69,"Miller, Olivia",OLIVIA.MILLER@HARBORLINEFOODS.COM,(0766) 177-1159,HARBORLINE FOODS,Finance Lead,5-02-2023,
+70,Ryan Peterson,ryan.peterson@gmail.com,(0789) 611-8367,Willowmere Estates,CEO,8-07-2024,Manufacturing

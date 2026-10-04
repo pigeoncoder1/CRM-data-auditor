@@ -7,11 +7,12 @@ from pathlib import Path
 
 from fastapi import FastAPI, HTTPException
 
+from .duplicates import MIN_SCORE, find_duplicates
 from .loader import Row, load_contacts
 from .scoring import completeness_score, field_summary, overall_score
 from .validation import FieldCheck, validate_record
 
-DEFAULT_CSV = Path(__file__).resolve().parent.parent / "messy_crm_dataset.csv"
+DEFAULT_CSV = Path(__file__).resolve().parent.parent / "messy_crm_dataset_v2.csv"
 CSV_PATH = Path(os.environ.get("CRM_CSV_PATH", DEFAULT_CSV))
 
 app = FastAPI(title="CRM Data Health Auditor")
@@ -40,12 +41,22 @@ def audit_contacts(rows: list[Row]) -> dict:
     }
 
 
-@app.get("/audit")
-def audit() -> dict:
+def load_rows() -> list[Row]:
     try:
-        rows = load_contacts(CSV_PATH)
+        return load_contacts(CSV_PATH)
     except FileNotFoundError:
         raise HTTPException(status_code=500, detail=f"CSV not found: {CSV_PATH}")
     except ValueError as e:
         raise HTTPException(status_code=500, detail=str(e))
-    return audit_contacts(rows)
+
+
+@app.get("/audit")
+def audit() -> dict:
+    return audit_contacts(load_rows())
+
+
+@app.get("/duplicates")
+def duplicates(min_score: float = MIN_SCORE) -> dict:
+    rows = load_rows()
+    pairs = find_duplicates(rows, min_score)
+    return {"record_count": len(rows), "pair_count": len(pairs), "pairs": pairs}
